@@ -1,15 +1,13 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:59:00.371750
-#+TITLE: 華嚴道場起止大略
-#+PROPERTY: CBETA_ID X74n1474
-#+PROPERTY: ID KR6e0154
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 74, No. 1474
-#+PROPERTY: VOL 74
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴道場起止大略 / X
+#+DATE: 2015-11-26 14:22:30.262728
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0154_X_000-0374a>
-[[file:KR6e0154_001.txt::001-0374a5][香讚¶]]
-[[file:KR6e0154_001.txt::001-0374a19][開經偈¶]]
-[[file:KR6e0154_001.txt::0374b4][總回向文¶]]
-[[file:KR6e0154_001.txt::0374b14][隨州大洪山遂禪師禮華嚴經文¶]]
+* 目次
+* [[file:KR6e0154_001.txt::001-0374a5][香讚¶]]
+* [[file:KR6e0154_001.txt::001-0374a19][開經偈¶]]
+* [[file:KR6e0154_001.txt::0374b4][總回向文¶]]
+* [[file:KR6e0154_001.txt::0374b14][隨州大洪山遂禪師禮華嚴經文¶]]
+* 卷
+** [[file:KR6e0154_001.txt][華嚴道場起止大略 1]]
